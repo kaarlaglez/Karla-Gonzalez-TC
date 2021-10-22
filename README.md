@@ -1,4 +1,3 @@
 # Karla Gonzalez TC
  Curso de Sistemas operativos
- vjhtrnvirntbrf
-rmkfmbithfngjkv
+ Karla Gonzalez Sanchez A01541526
